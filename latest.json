@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "download_url": "https://github.com/Anto-cmyk/MT-Matrix-Releases/releases/latest/download/MT-Matrix-Setup.exe",
-  "sha256": "PUT_THE_REAL_64_CHARACTER_SHA256_HASH_HERE",
+  "sha256": certutil -hashfile MT-Matrix-Setup.exe SHA256",
   "release_notes": "https://github.com/Anto-cmyk/MT-Matrix-Releases/releases/latest",
   "mandatory": false
 }
